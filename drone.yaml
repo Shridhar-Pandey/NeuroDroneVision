@@ -1,0 +1,10 @@
+# Path to your training and validation datasets
+train: D:/Projects/DRONE DETECTION SYSTEM/train/images
+val: D:/Projects/DRONE DETECTION SYSTEM/valid/images
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  - drone
