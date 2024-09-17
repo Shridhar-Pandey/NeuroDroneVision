@@ -1,3 +1,0 @@
-### Resnet Model for Drone Detection
-
-You can find the link to the Resnet model for drone detection in the [model_link.txt](ttps://drive.google.com/uc?export=view&id=1J235NUVBz3tjSkZxnez-5T92y-VL4OAZ) file.
