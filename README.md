@@ -8,7 +8,7 @@ An AI-powered system utilizing neural network architectures for precise and real
 ### Output Video with Detections
 You can check the sample output video with detections [here](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/output_video_with_detections.mp4).
 
-![Drone Detection](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/output_video_with_detections.mp4)
+![Drone Detection](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/Output.mp4)
 
 
 ### Importing Libraries
