@@ -1,8 +1,14 @@
 # NeuroDroneVision
+
 An AI-powered system utilizing neural network architectures for precise and real-time drone detection and tracking.
 
 ## Description
 **Drone Detection System**
+
+### Output Video with Detections
+You can check the sample output video with detections [here](output_video_with_detections.mp4).
+
+![Drone Detection](output_video_with_detections.mp4)
 
 ### Importing Libraries
 - Imported essential libraries such as `TensorFlow`, `Keras`, and `scikit-learn` for building, training, and evaluating the machine learning model.
@@ -55,4 +61,3 @@ Feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
-
