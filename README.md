@@ -8,7 +8,7 @@ An AI-powered system utilizing neural network architectures for precise and real
 ### Output Video with Detections
 You can check the sample output video with detections [here](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/output_video_with_detections.mp4).
 
-![Drone Detection](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/Output%20photos/Readme_output.png)
+![Drone Detection](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/Output%20photos/Readme_output.png)![Drone Detection](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/Output%20photos/output_3.png)
 
 
 ### Importing Libraries
@@ -59,6 +59,6 @@ The system uses neural network models to accurately detect drones in various env
 
 ## Contributing
 Feel free to fork this repository, make your changes, and submit a pull request.
-
+![Drone Detection](https://github.com/Shridhar-Pandey/NeuroDroneVision/blob/main/Output%20photos/output_2.png)
 ## License
 This project is licensed under the MIT License.
